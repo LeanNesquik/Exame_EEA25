@@ -22,5 +22,7 @@ module ALU_Controller(
         endcase
     end
     // oi
+    // dddddd
+    
 
 endmodule
